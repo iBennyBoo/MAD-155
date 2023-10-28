@@ -1,0 +1,105 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 20px;
+    font-family: 'Quicksand';
+    background-image: url(images/background_cupcakes.png);
+}
+
+nav{
+    text-align: center;
+}
+
+nav a{
+    text-decoration: none;
+    background-color: #89c5f9;
+    border: 2px solid black;
+    border-radius: 10px;
+    color: whitesmoke;
+    padding: 5px 10px;
+    margin-left: 30px;
+}
+
+nav a:hover{
+    color: #89c5f9;
+    background-color: whitesmoke;
+}
+
+.logo img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: black;
+    border-style: double;
+}
+
+.text{
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border-color: black;
+    border-style: double;
+}
+
+.text h1, .text h2{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.box img{
+    max-height: 250px;
+    width: 100%;
+    object-fit: contain;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.start{
+    background: white;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    border-style: double;
+}
+
+.start h1{
+    text-decoration: underline;
+}
+
+.box{
+    background-color: #fefdfd;
+    color: black;
+    border-radius: 5px;
+    padding: 15px;
+    font-size: 135%;
+    border-style: double;
+}
+
+.box p{
+    text-align: center;
+    color: black;
+}
+
+.ads{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    grid-template-rows: 400px 400px 400px;
+    gap: 15px;
+}
+
+footer{
+    background: white;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.end{
+    width: 305%;
+}
