@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">DADCYOA</string>
+    <string name="beginning">Welcome to the Dungeons and Dragons Choose Your Own Adventure App! Select what class you would like to play as.</string>
+    <string name="bard">Choose Bard</string>
+    <string name="ranger">Choose Ranger</string>
+    <string name="rogue">Choose Rogue</string>
+
+    <string name="bardStart">You have a drink at the local tavern and before you leave without paying, the tavern owner stops you. He points out the amount of debt you have racked up on your tab, but he gives you an opportunity to repay it. He gives you two options. You can either:</string>
+    <string name="bardOption1">Choose to drive out the Goblins</string>
+    <string name="bardOption2">Choose to drive out the Ogres</string>
+    <string name="bardStart2">Your wizard friend decides to come along with you on your adventure, and you teleport to your destination.</string>
+    <string name="bardGoblin1">You and your wizard friend sneak to where the head goblin is, surrounded by fellow goblins. They are armed to the teeth with daggers, swords, and bows. How would you like to approach?</string>
+    <string name="bardOgre1">You and your wizard friend sneak to where the ogres are huddled. They are holding a meeting of some sort. How would you like to approach?</string>
+    <string name="bardOption3">You Charm Them with Music</string>
+    <string name="bardOption4">Your Friend Casts Fireball</string>
+    <string name="bardStart4">The charm does not work and the goblins soon surround you and the wizard. You are faced to teleport back to the tavern. When you return, the bar owner shames you for not completing a simple task and subsequently bans you from the tavern forever.</string>
+    <string name="bardStart5">Your wizard friend starts up a giant fireball and launches it towards the group. They are incinerated almost immediately. All the other goblins run away from fear. You return to the tavern and the bar owner cancels out your debt. You get up on a chair and shout that the next round of drinks is on you.</string>
+    <string name="bardStart6">Your wizard friend starts up a giant fireball and launches it towards the group. It does not seem to bother them, and they start coming towards you with violent intent. You both teleport back to the tavern before they can hurt you. The bar owner shames you for not completing a simple task and subsequently bans you from the tavern forever.</string>
+    <string name="bardStart7">You play a musical number with your lute for the ogres, and they shockingly enjoy it. You have their attention, what do you do next?</string>
+    <string name="bardOption5">Peacefully Chat</string>
+    <string name="bardOption6">Resort to Violence</string>
+    <string name="bardStart8">You and the wizard proceed to massacre the distracted ogres. When finished, you return to the tavern and the bar owner cancels out your debt. You get up on a chair and shout that the next round of drinks is on you.</string>
+    <string name="bardStart9">You convince the ogres to relocate. They agree under the condition that you come back sometime to play more music. You return to the tavern and the bar owner cancels out your debt. You get up on a chair and shout that the next round of drinks is on you.</string>
+
+    <string name="rangerStart1">You are on your way to visit your family in the next town over, though it will take you a full day and night to get there. You round up your steed and carriage and set out at dawn.</string>
+    <string name="rangerStart2">As you travel, another carriage stops you. A merchant is looking to sell you his goods. Your insight tells you that what he is selling is fraudulent, though he is trying to provide for his family. Do you wish to buy from the merchant?</string>
+    <string name="rangerOption1">Yes</string>
+    <string name="rangerOption2">No</string>
+    <string name="rangerStart3">You buy one of his goods, his gratitude beaming. He thanks you with all his heart and takes off. You store it in your carriage and continue your journey.</string>
+    <string name="rangerStart4">The merchant\'s face turns sour. He swears you and departs. Not knowing what just happened, you continue your journey forward.</string>
+    <string name="rangerStart5">As the sky darkens, you are left with two choices. You can either continue riding through the night and risk encountering the dangers that lurk, or you may set up camp on the side of the road and wait until morning.</string>
+    <string name="rangerOption3">Continue Riding</string>
+    <string name="rangerOption4">Set Up Camp</string>
+    <string name="rangerStart6">As day turns to dusk, you decide to set up camp so you and your horse may rest.</string>
+    <string name="rangerStart7">You continue riding into the night. You keep going until you see the streetlamps of the next town. You arrive at the dead of night, streets silent and all life quiet. You arrive to at your destination, tired and exhausted. You sleep and in the morning, you awake to visit your family.</string>
+    <string name="rangerStart8">You find a nice flat area and set up camp. Though throughout the night, you hear strange sounds all around you. In the middle of the night, there is one particular disturbance that gets you riled up. What would you like to do?</string>
+    <string name="rangerOption5">Investigate the Disturbance</string>
+    <string name="rangerOption6">Sleep Through the Noise</string>
+    <string name="rangerStart9">As you get out of your tent, you light up a lamp in one hand and wield your weapon in the other. You search through the darkness for whatever made that sound. Turns out, it was just a bunny, nothing to be afraid of.</string>
+    <string name="rangerStart10">You wake up the next morning, refreshed and ready to finish the trip. You make your way to the town while the sun shines, eager to see your family.</string>
+    <string name="rangerStart11">You awake in the morning, but you are alone. Your horse and carriage is missing. Through sleeping the noise away, you release that you were robbed, the noises most likely the culprits in question. You have no choice but to walk the rest of the way to the town. It takes you until the very next night, and by then you are tired, hungry, cold, and thirsty.</string>
+    <string name="rangerStart12">As you get out of your tent, you light up a lamp in one hand and wield your weapon in the other. The merchant is back, and with a couple thugs on his side. You are forced into combat, but outnumbered, you die.</string>
+
+    <string name="rogueStart1">You are a criminal, locked in a cell by the city guard. Though you try to persuade the guards with the promise of profit, they ignore you and leave you to rot. You decide it\s time to break out. How would you like to do so?</string>
+    <string name="rogueOption1">Through the Vents</string>
+    <string name="rogueOption2">Through a Hole</string>
+    <string name="rogueOption3">Through the Wall</string>
+    <string name="rogueStart2">You climb up into the vents and start to crawl throughout the complex. You have three options to drop down into: Select one.</string>
+    <string name="rogueOption4">The Warden\'s Office</string>
+    <string name="rogueOption5">The Camera Room</string>
+    <string name="rogueOption6">Keep Going</string>
+    <string name="rogueStart3">You dig a hole straight down, though this leads to the cell directly under yours. As you fall through, the other inmate sees you fall from the ceiling and calls the guards. They come and get you and put you in tighter security.</string>
+    <string name="rogueStart4">You get caught and are put into a tighter cell with higher security. Your plan fails.</string>
+    <string name="rogueStart5">You drop down and incapacitate the guard, what do you do next?</string>
+    <string name="rogueOption7">Steal the Guard\'s Clothes and Leave</string>
+    <string name="rogueOption8">Disables Monitors and Leave</string>
+    <string name="rogueStart6">You steal the guard\'s clothes, use the keycard and walk out of the prison. You rejoin society in the following days, planning the next great heist.</string>
+    <string name="rogueStart7">You disable the monitors and walk out. The guards stop you immediately and put you in handcuffs. Turns out you can disable the monitors, but the guards can still use their basic eyesight.</string>
+    <string name="rogueStart8">One day you get an opportunity to slip through the barred window while no one is looking. You fall into the courtyard and the guards start to swarm, what do you do?</string>
+    <string name="rogueOption9">Fight</string>
+    <string name="rogueOption10">Flee</string>
+    <string name="rogueStart9">You try to stand your ground, but you\'re outnumbered. They subdue you and lock you in the tightest cell available. You will never see the light of day ever again.</string>
+    <string name="rogueStart10">You make a run for the courtyard fence and climb it. You run as fast as you can, never turning back. Months go by and you have blended back into society, eager for the next great heist.</string>
+</resources>
